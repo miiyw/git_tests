@@ -1,2 +1,5 @@
 it is a a.txt file!
+<<<<<<< HEAD
 insert into command line
+insert into http
+>>>>>>> d82b23ca005c57ec8b33a8199c47a42f3bd8b51f
